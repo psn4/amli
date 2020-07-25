@@ -405,26 +405,17 @@ dt,wk,typ,player,r1,r2,r3
 2020-07-22,11,com,avi_b,6,2,5
 2020-07-22,11,com,yogi,5,3,2
 2020-07-22,11,com,Bogeyman,4,6,3
-
-
-2020-07-23,11,com,buy_bitcoin,,,
-2020-07-23,11,com,birdie,,,
-2020-07-23,11,com,naf,,,
-2020-07-23,11,com,shiv,,,
-2020-07-23,11,com,avi_b,,,
-2020-07-23,11,com,yogi,,,
-2020-07-23,11,com,Bogeyman,,,
-2020-07-23,11,com,baby_luigi,,,
-
-
-2020-07-24,11,com,buy_bitcoin,,,
-2020-07-24,11,com,birdie,,,
-2020-07-24,11,com,naf,,,
-2020-07-24,11,com,shiv,,,
-2020-07-24,11,com,avi_b,,,
-2020-07-24,11,com,yogi,,,
-2020-07-24,11,com,Bogeyman,,,
-2020-07-24,11,com,baby_luigi,,,
+2020-07-23,11,com,buy_bitcoin,4,1,1
+2020-07-23,11,com,naf,5,3,3
+2020-07-23,11,com,shiv,1,,
+2020-07-23,11,com,yogi,3,4,2
+2020-07-23,11,com,Bogeyman,2,2,4
+2020-07-24,11,com,buy_bitcoin,2,4,4
+2020-07-24,11,com,birdie,3,1,5
+2020-07-24,11,com,shiv,4,3,1
+2020-07-24,11,com,yogi,5,6,2
+2020-07-24,11,com,Bogeyman,1,2,6
+2020-07-24,11,com,dave,6,5,3
 
 
 2020-07-25,11,com,buy_bitcoin,,,
